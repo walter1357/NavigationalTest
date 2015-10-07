@@ -1,0 +1,29 @@
+{
+  Daten: [
+    {Thema: 0, Id: 0, Title: "Alles", Icon: "ic_action_next_item"},
+    {Thema: 0, Id: 1, Title: "einfach", Icon: ""},
+    {Thema: 0, Id: 2, Title: "mittel", Icon: ""},
+    {Thema: 0, Id: 3, Title: "anspruchsvoll", Icon: "" },
+    {Thema: 1, Id: 0, Title: "Zahlen und Maße", Icon: "mathe_theme_numbers"},
+    {Thema: 1, Id: 1, Title: "einfach", Icon: ""},
+    {Thema: 1, Id: 2, Title: "mittel", Icon: ""},
+    {Thema: 1, Id: 3, Title: "anspruchsvoll", Icon: ""},
+    {Thema: 2, Id: 0, Title: "Algebra und Geometrie", Icon: "mathe_theme_algebra" },
+    {Thema: 2, Id: 1, Title: "einfach", Icon: ""},
+    {Thema: 2, Id: 2, Title: "mittel", Icon: ""},
+    {Thema: 2, Id: 3, Title: "anspruchsvoll", Icon: ""},
+    {Thema: 3, Id: 0, Title: "Funktionale Zusammenhänge", Icon: "mathe_theme_functions"},
+    {Thema: 3, Id: 1, Title: "einfach", Icon: "" },
+    {Thema: 3, Id: 2, Title: "mittel", Icon: ""},
+    {Thema: 3, Id: 3, Title: "anspruchsvoll", Icon: ""},
+    {Thema: 4, Id: 0, Title: "Analysis", Icon: "mathe_theme_analysis"},
+    {Thema: 4, Id: 1, Title: "einfach", Icon: ""},
+    {Thema: 4, Id: 2, Title: "mittel", Icon: "" },
+    {Thema: 4, Id: 3, Title: "anspruchsvoll", Icon: ""},
+
+    {Thema: 5, Id: 0, Title: "Stochastik", Icon: "mathe_theme_stochastic"},
+    {Thema: 5, Id: 1, Title: "einfach", Icon: ""},
+    {Thema: 5, Id: 2, Title: "mittel", Icon: ""},
+    {Thema: 5, Id: 3, Title: "anspruchsvoll", Icon: ""}
+  ]
+}

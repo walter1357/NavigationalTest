@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TrainingMenu xmlns:android="http://schemas.android.com/apk/res/android">
+    <Item Thema="0" Id="0"><Title>Alles</Title><Icon>ic_action_next_item</Icon></Item>
+    <Item Thema="0" Id="1"><Id>1</Id><Title>einfach</Title><Icon></Icon></Item>
+    <Item Thema="0" Id="2"><Id>2</Id><Title>mittel</Title><Icon></Icon></Item>
+    <Item Thema="0" Id="3"><Id>3</Id><Title>anspruchsvoll</Title><Icon></Icon></Item>
+
+    <Item Thema="1" Id="0"><Title>Zahlen und Maße</Title><Icon>mathe_theme_numbers</Icon></Item>
+    <Item Thema="1" Id="1"><Title>einfach</Title><Icon></Icon></Item>
+    <Item Thema="1" Id="2"><Title>mittel</Title><Icon></Icon></Item>
+    <Item Thema="1" Id="3"><Title>anspruchsvoll</Title><Icon></Icon></Item>
+
+    <Item Thema="2" Id="0"><Title>Algebra und Geometrie</Title><Icon>mathe_theme_algebra</Icon></Item>
+    <Item Thema="2" Id="1"><Title>einfach</Title><Icon></Icon></Item>
+    <Item Thema="2" Id="2"><Title>mittel</Title><Icon></Icon></Item>
+    <Item Thema="2" Id="3"><Title>anspruchsvoll</Title><Icon></Icon></Item>
+
+    <Item Thema="3" Id="0"><Title>Funktionale Zusammenhänge</Title><Icon>mathe_theme_functions</Icon></Item>
+    <Item Thema="3" Id="1"><Title>einfach</Title><Icon></Icon></Item>
+    <Item Thema="3" Id="2"><Title>mittel</Title><Icon></Icon></Item>
+    <Item Thema="3" Id="3"><Title>anspruchsvoll</Title><Icon></Icon></Item>
+
+    <Item Thema="4" Id="0"><Title>Analysis</Title><Icon>mathe_theme_analysis</Icon></Item>
+    <Item Thema="4" Id="1"><Title>einfach</Title><Icon></Icon></Item>
+    <Item Thema="4" Id="2"><Title>mittel</Title><Icon></Icon></Item>
+    <Item Thema="4" Id="3"><Title>anspruchsvoll</Title><Icon></Icon></Item>
+
+    <Item Thema="5" Id="0"><Title>Stochastik</Title><Icon>mathe_theme_stochastic</Icon></Item>
+    <Item Thema="5" Id="1"><Title>einfach</Title><Icon></Icon></Item>
+    <Item Thema="5" Id="2"><Title>mittel</Title><Icon></Icon></Item>
+    <Item Thema="5" Id="3"><Title>anspruchsvoll</Title><Icon></Icon></Item>
+
+</TrainingMenu>

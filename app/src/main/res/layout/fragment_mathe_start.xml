@@ -1,0 +1,71 @@
+<TableLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:paddingLeft="@dimen/activity_horizontal_margin"
+android:paddingRight="@dimen/activity_horizontal_margin"
+android:paddingTop="@dimen/activity_vertical_margin"
+android:paddingBottom="@dimen/activity_vertical_margin"
+tools:context=".MatheStartActivity$MatheStartFragment"
+android:background="@color/background_material_light"
+android:layout_gravity="center"
+android:stretchColumns="*"
+android:shrinkColumns="*"
+>
+
+<TableRow
+    android:layout_width="match_parent"
+    android:layout_height="0dp"
+    android:layout_weight="1"
+    >
+
+<ImageButton
+    android:id="@+id/imbtStartTraining"
+    android:layout_margin="@dimen/math_logo_margin"
+    android:src="@drawable/mathe_start_training"
+    android:contentDescription="Trainieren"
+    android:background="@android:color/transparent"
+    android:scaleType="fitCenter"
+    android:clickable="true" />
+
+<ImageButton
+    android:id="@+id/imbtStartTesting"
+    android:layout_margin="@dimen/math_logo_margin"
+    android:src="@drawable/mathe_start_testing"
+    android:contentDescription="Testen"
+    android:background="@android:color/transparent"
+    android:scaleType="fitCenter"
+    android:clickable="true" />
+
+</TableRow>
+
+<TableRow
+    android:layout_width="match_parent"
+    android:layout_height="0dp"
+    android:layout_weight="1"
+    >
+
+<ImageButton
+    android:id="@+id/imbtStartAuswertung"
+    android:layout_margin="@dimen/math_logo_margin"
+    android:src="@drawable/mathe_start_auswertung"
+    android:contentDescription="Auswertung"
+    android:background="@android:color/transparent"
+    android:scaleType="fitCenter"
+    android:clickable="true"
+    android:focusable="true" />
+
+<ImageButton
+    android:id="@+id/imbtStartSocialMedia"
+    android:layout_margin="@dimen/math_logo_margin"
+    android:src="@drawable/mathe_start_social_media"
+    android:contentDescription="Social Media"
+    android:background="@android:color/transparent"
+    android:scaleType="fitCenter"
+    android:clickable="true" />
+
+</TableRow>
+</TableLayout>
+
+

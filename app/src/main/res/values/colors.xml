@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <item name="mathe_blue" type="color">#4040FF</item>
+    <item name="mathe_red" type="color">#FF2020</item>
+    <item name="mathe_lightred" type="color">#FFA0A0</item>
+    <item name="mathe_green" type="color">#00D000</item>
+    <item name="mathe_lightgreen" type="color">#A0FFA0</item>
+    <item name="mathe_darkgray" type="color">#606080</item>
+
+    <integer-array name="androidcolors">
+        <item>@color/mathe_blue</item>
+        <item>@color/mathe_red</item>
+        <item>@color/mathe_lightred</item>
+        <item>@color/mathe_green</item>
+        <item>@color/mathe_lightgreen</item>
+        <item>@color/mathe_darkgray</item>
+    </integer-array>
+
+
+</resources>

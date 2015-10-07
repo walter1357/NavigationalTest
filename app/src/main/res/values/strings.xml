@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Mathematiktraining</string>
+
+    <string name="title_section0">Start</string>
+    <string name="title_section1">Training</string>
+    <string name="title_section2">Test</string>
+    <string name="title_section3">Auswertung</string>
+    <string name="title_section4">Social</string>
+
+    <string name="title_sectiondummy0">DummyStart</string>
+    <string name="title_sectiondummy1">Dummy Section 1ä</string>
+    <string name="title_sectiondummy2">Dummy Section 2ö</string>
+    <string name="title_sectiondummy3">Dummy Section 3ß</string>
+
+
+    <string name="hello_world">Hello Mathe-world!</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="trainings_questions">" offene Fragen"</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_dummy">DummyActivity</string>
+</resources>

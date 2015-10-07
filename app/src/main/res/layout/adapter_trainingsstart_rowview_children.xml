@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:id="@+id/trainingsadapter_theme_icon"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_marginLeft="2dp"
+        android:layout_marginRight="6dp"
+        android:layout_marginTop="1dp"
+        android:layout_marginBottom="1dp"
+        android:src="@drawable/mathe_start_testing"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true" />
+
+    <TextView
+        android:id="@+id/trainingsadapter_theme_label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textSize="20dip"
+        android:layout_toRightOf="@+id/trainingsadapter_theme_icon"
+        android:layout_centerVertical="true" />
+
+
+    <at.cernin.navigationaltest.ImageViewTrainingStatistics
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/trainingsadapter_action_statistic"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="2dp"
+        android:layout_marginBottom="2dp"
+        android:layout_marginLeft="70dp"
+        android:layout_marginRight="140sp"
+        android:minHeight="15dp"
+        android:layout_centerVertical="true"
+        android:background="#c0c0c0"
+        android:minWidth="10dp" />
+
+    <TextView
+        android:id="@+id/trainingsadapter_action_label1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textSize="15dip"
+        android:layout_marginTop="2dp"
+        android:layout_toLeftOf="@+id/trainingsadapter_action_icon"
+        android:layout_alignParentTop="true"
+        android:textAlignment="viewEnd" />
+
+    <TextView
+        android:id="@+id/trainingsadapter_action_label2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textSize="10dp"
+        android:layout_marginTop="20dp"
+        android:layout_toLeftOf="@+id/trainingsadapter_action_icon"
+        android:layout_alignParentTop="true"
+        android:textAlignment="viewEnd" />
+
+    <ImageView
+        android:id="@+id/trainingsadapter_action_icon"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_marginLeft="6dp"
+        android:layout_marginRight="2dp"
+        android:layout_marginTop="1dp"
+        android:layout_marginBottom="1dp"
+        android:src="@drawable/ic_action_next_item"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true" />
+
+</merge>
